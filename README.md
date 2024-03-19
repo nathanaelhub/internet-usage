@@ -1,5 +1,7 @@
 # internet_usage
 
+o view the webpage created as part of this Tableau Embedding Project go to: https://nathanaelhub.github.io/internet_usage/
+
 ### Global Internet Usage and Search Engine Analysis
 
 This project explores the evolving landscape of internet usage worldwide, focusing on the distribution of users across different search engines such as Google, Bing, and Yahoo! in the top 12 countries by internet user population. Utilizing RStudio for data filtering, importing, and merging, followed by Tableau for dynamic visualizations, the project aims to provide a comprehensive view of global internet engagement trends.
