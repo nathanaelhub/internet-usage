@@ -1,4 +1,4 @@
-# internet-usage
+# internet_usage
 
 ### Global Internet Usage and Search Engine Analysis
 
